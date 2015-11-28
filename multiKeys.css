@@ -1,0 +1,43 @@
+/* 
+    Document   : multiKeys
+    Created on : Nov 20, 2013, 7:33:03 AM
+    Author     : jonyei
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+* {
+    display: inline-block;
+    text-align: center;
+    margin: auto 0 ;
+}
+
+#up {
+    margin-bottom: 5px;
+}
+
+#down {
+    
+}
+
+#left {
+    
+}
+
+#rigth {
+    
+}
+
+.keys {
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+    margin: 2px;
+    
+    width: 15px;
+    height: 15px;
+    padding: 20px;
+    border: thin solid black;
+    border-radius: 25%;
+}
